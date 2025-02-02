@@ -4043,6 +4043,7 @@ body.theme-yellow .table thead tr th {
 
 .testimonial {
   position: relative;
+  background-color: #212529 !important;
 }
 
 .testimonial .testimonial-star-icon {
@@ -13716,7 +13717,7 @@ img.hori-move {
 }
 
 .testimonial-text {
-  color: #000;
+  color: #fff;
   font-weight: 600;
   font-size: 20px;
   line-height: 30px;
@@ -13724,7 +13725,7 @@ img.hori-move {
 }
 
 .testimonial-by {
-  color: #000;
+  color: #fff;
   font-weight: 400;
   font-size: 17px;
   line-height: 30px;
